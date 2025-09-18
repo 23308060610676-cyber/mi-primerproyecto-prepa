@@ -1,4 +1,4 @@
-# mi-primerproyecto-prepa
+# mi primer proyecto prepa
 
 un proyecto de ejemplo para aprender
 
